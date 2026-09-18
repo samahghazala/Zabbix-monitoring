@@ -54,5 +54,4 @@ Active 5-tier target virtual machine environment (web01, app01, db01, mc01, rmq0
 
 Dedicated VM or container host with root/sudo privileges for the Zabbix Server.
 
-
-<img width="724" height="439" alt="zabbix" src="https://github.com/user-attachments/assets/3ddb2789-162d-49a2-bded-76ff30460c82" />
+<img width="724" height="365" alt="zabbix2" src="https://github.com/user-attachments/assets/4cc81764-bec8-42b2-b3df-536f931181ef" />
