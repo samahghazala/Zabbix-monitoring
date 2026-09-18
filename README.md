@@ -53,3 +53,8 @@ Prerequisites
 Active 5-tier target virtual machine environment (web01, app01, db01, mc01, rmq01).
 
 Dedicated VM or container host with root/sudo privileges for the Zabbix Server.
+
+
+
+
+<img width="724" height="439" alt="zabbix" src="https://github.com/user-attachments/assets/50a1f84e-d752-4375-923e-75a73c6b1c97" />
